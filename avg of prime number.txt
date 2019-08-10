@@ -1,0 +1,8 @@
+prime no
+2
+3
+4
+5
+sum of prime numin given range14
+cp=4
+avg=3.5000
